@@ -1,4 +1,4 @@
-# Imged-ecg-signal
+# Imaged-ecg-signal
 Imaged-ecg-signal
 
 From PhysioNet arrhythmia ecg data
