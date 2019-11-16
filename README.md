@@ -10,7 +10,7 @@ List of arrhythmia beat
 
 <img src="./READMEIMGS/001.png" width="400">
 
-#Example IMages
+# Example Images
 
 -N signal Example
 
