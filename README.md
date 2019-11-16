@@ -13,7 +13,11 @@ List of arrhythmia beat
 #Example IMages
 -N signal Example
 <img src="./pngN/pngN0.png" width="200">
+
+
 -S signal Example
 <img src="./pngS/pngS0.png" width="200">
+
+
 -V signal Example
 <img src="./pngV/pngV0.png" width="200">
